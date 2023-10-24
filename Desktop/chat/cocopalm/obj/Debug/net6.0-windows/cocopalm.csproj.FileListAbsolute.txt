@@ -1,0 +1,72 @@
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.exe
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.deps.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.runtimeconfig.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Form1.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Properties.Resources.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfo.cs
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\refint\cocopalm.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.genruntimeconfig.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\cocopalm\obj\Debug\net6.0-windows\ref\cocopalm.dll
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.exe
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.deps.json
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.runtimeconfig.json
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.dll
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.pdb
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.AssemblyReference.cache
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Form1.resources
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Properties.Resources.resources
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.GenerateResource.cache
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.GeneratedMSBuildEditorConfig.editorconfig
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfoInputs.cache
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfo.cs
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.CoreCompileInputs.cache
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.dll
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\refint\cocopalm.dll
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.pdb
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.genruntimeconfig.cache
+F:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\ref\cocopalm.dll
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.exe
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.deps.json
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.runtimeconfig.json
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.dll
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.pdb
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.AssemblyReference.cache
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Form1.resources
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Properties.Resources.resources
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.GenerateResource.cache
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.GeneratedMSBuildEditorConfig.editorconfig
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfoInputs.cache
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfo.cs
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.CoreCompileInputs.cache
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.dll
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\refint\cocopalm.dll
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.pdb
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.genruntimeconfig.cache
+E:\poly\소켓 프로그래밍\cocopalm\cocopalm\obj\Debug\net6.0-windows\ref\cocopalm.dll
+C:\Users\user\Desktop\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.exe
+C:\Users\user\Desktop\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.deps.json
+C:\Users\user\Desktop\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.runtimeconfig.json
+C:\Users\user\Desktop\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.dll
+C:\Users\user\Desktop\cocopalm\cocopalm\bin\Debug\net6.0-windows\cocopalm.pdb
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Form1.resources
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.Properties.Resources.resources
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.AssemblyInfo.cs
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.dll
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\refint\cocopalm.dll
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.pdb
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\cocopalm.genruntimeconfig.cache
+C:\Users\user\Desktop\cocopalm\cocopalm\obj\Debug\net6.0-windows\ref\cocopalm.dll

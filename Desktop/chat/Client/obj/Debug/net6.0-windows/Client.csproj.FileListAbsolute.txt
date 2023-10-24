@@ -1,0 +1,117 @@
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.Client.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.Properties.Resources.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm\Client\obj\Debug\net6.0-windows\ref\Client.dll
+F:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.exe
+F:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.deps.json
+F:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+F:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.dll
+F:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.pdb
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.Client.resources
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.Properties.Resources.resources
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.dll
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\refint\Client.dll
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.pdb
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\ref\Client.dll
+F:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Emoticon.emoticon.resources
+E:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.exe
+E:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.deps.json
+E:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+E:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.dll
+E:\poly\소켓 프로그래밍\cocopalm\Client\bin\Debug\net6.0-windows\Client.pdb
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.Client.resources
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Emoticon.emoticon.resources
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.Properties.Resources.resources
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.dll
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\refint\Client.dll
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.pdb
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\ref\Client.dll
+E:\poly\소켓 프로그래밍\cocopalm\Client\obj\Debug\net6.0-windows\reserve.reserve_send.resources
+C:\Users\user\Desktop\cocopalm\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\user\Desktop\cocopalm\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\user\Desktop\cocopalm\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\user\Desktop\cocopalm\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\cocopalm\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.Client.resources
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Emoticon.emoticon.resources
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.Properties.Resources.resources
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\reserve.reserve_send.resources
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\user\Desktop\cocopalm\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.Client.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Emoticon.emoticon.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.Properties.Resources.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\reserve.reserve_send.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.Client.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Emoticon.emoticon.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.Properties.Resources.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\reserve.reserve_send.resources
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\user\Desktop\mi_프로그램\cocopalm_v2 - 서버메시지버전\Client\obj\Debug\net6.0-windows\ref\Client.dll
